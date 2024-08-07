@@ -1,0 +1,1 @@
+docker-compose -f ./db-services/mysql/docker-compose.yaml up -d

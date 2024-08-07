@@ -1,0 +1,1 @@
+docker-compose -f ./db-services/mssql/docker-compose.yaml up -d
